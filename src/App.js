@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Changing the text to see if it works.
+          Using old build-deploy yaml.
         </p>
         <a
           className="App-link"
